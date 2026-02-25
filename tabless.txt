@@ -1,0 +1,10 @@
+Design progress bar is a bit unnecessary, properties are configured before tabless opens, default schedule is none i.e. run on demand, only criteria and attributes would contributes to progress...
+
+Gen AI piece is not dedicated to criteria building as it adds/removes attributes, so where does the button go?
+
+History page cannot be refreshed as a modal dialog as the refresh button (all floating dialogs would need their own refresh button)
+
+Add attributes from Criteria button to the main tabless view
+
+Drag and Drop, do we need it?
+
